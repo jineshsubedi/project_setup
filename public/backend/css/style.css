@@ -1,0 +1,17 @@
+.main-header .navbar {
+	background-color: #252533;
+}
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header{
+	background-color: #444454;
+}
+.sidebar-mini.sidebar-collapse .main-sidebar{
+	background-color: #444454;
+}
+.main-sidebar {
+	background-color: #444454;
+	color: white;
+}
+.active-new{
+	background-color: white;
+	color:black;
+}
